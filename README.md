@@ -1,4 +1,4 @@
-#Curso básico de Python
+# Curso básico de Python
 
 ![Logo de Python](https://github.com/aldodanielle/Python_Curso_Basico/blob/main/Imagenes/logo_python.png?raw=true)
 
